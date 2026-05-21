@@ -45,8 +45,8 @@ _to be filled later_
 ## Contribution
 
 This is a group project. Each member contributes by implementing specific data structures or improving existing ones. Members of the group include
-- Akerele Emmanuel (243437)
-- Oyetibo Emmanuel (243481)
+- Akerele Emmanuel (243481)
+- Agbanusi Emmanuel (243436)
 - Onishola Joshua (236758)
 - Onishola Caleb (236757)
 - James Samuel (231433)
