@@ -1,4 +1,4 @@
-# data-structures-impl
+# DATA STRUCTURES AND ALGORITHMS - CSC 341
 
 A collaborative implementation of core tree-based data structures in Python and Java, designed to deepen understanding of data organization, traversal, and efficient searching.
 
@@ -8,11 +8,9 @@ A collaborative implementation of core tree-based data structures in Python and 
   - In-order
   - Pre-order
   - Post-order
-  - Level-order
 
 - Binary Search Tree (BST)
   - Insertion
-  - Deletion
   - Search
 
 - AVL Tree
@@ -20,12 +18,17 @@ A collaborative implementation of core tree-based data structures in Python and 
   - Rotations (LL, RR, LR, RL)
 
 - B-Tree
-  - Multi-way search tree
+  - M-ary search tree
   - Node splitting and balancing
 
 - B+ Tree
   - Optimized for range queries
   - Leaf node linkage
+
+- Graphs
+  - Representation using Adjacency List and Matrix
+  - Breadth-First Search (BFS) -> Queue Helper
+  - Depth-First Search (DFS) -> Stack Helper
 
 ## Tech Stack
 
@@ -44,12 +47,17 @@ _to be filled later_
 
 ## Contribution
 
-This is a group project. Each member contributes by implementing specific data structures or improving existing ones. Members of the group include
-- Akerele Emmanuel (243481)
-- Agbanusi Emmanuel (243436)
-- Onishola Joshua (236758)
-- Onishola Caleb (236757)
-- James Samuel (231433)
+Each member contributes by implementing specific data structures or improving existing ones.
+
+### Group 3
+
+| Contributor           | Matric No. |
+| --------------------- | ---------- |
+| **AKERELE EMMANUEL**  | **243481** |
+| **EMMANUEL AGBANUSI** | **243436** |
+| **ONISHOLA JOSHUA**   | **236758** |
+| **ONISHOLA CALEB**    | **236757** |
+| **JAMES SAMUEL**      | **231433** |
 
 ## Notes
 
