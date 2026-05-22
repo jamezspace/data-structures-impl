@@ -38,14 +38,14 @@ class Graph:
         starting_vertex = random.choice(self.graph)
         print(starting_vertex.key)
 
-        from queues import Simple_Queue
+        from python.queues import Simple_Queue
         _bfs_queue = Simple_Queue()
         _bfs_queue.enqueue(starting_vertex)
 
         self._BFS_helper(_bfs_queue, visited, traversal_order)
         return traversal_order
 
-    from queues import Simple_Queue
+    from python.queues import Simple_Queue
     def _BFS_helper(self, bfs_queue: Simple_Queue, visited: set, traversal_order: list):
         if bfs_queue.is_empty():
             return
@@ -63,14 +63,14 @@ class Graph:
         starting_vertex = random.choice(self.graph)
         print(starting_vertex.key)
 
-        from stack import Stack
+        from python.stack import Stack
         _dfs_stack = Stack(len(self.graph))
         _dfs_stack.push(starting_vertex)
 
         self._DFS_helper(_dfs_stack, visited, traversal_order)
         return traversal_order
 
-    from stack import Stack    
+    from python.stack import Stack    
     def _DFS_helper(self, dfs_stack: Stack, visited: set, traversal_order: list):
         import random
         top: Vertex = dfs_stack.peek()

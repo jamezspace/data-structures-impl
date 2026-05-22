@@ -43,7 +43,19 @@ A collaborative implementation of core tree-based data structures in Python and 
 
 ## Structure
 
-_to be filled later_
+├── java
+│   ├── AvlTree.java
+│   ├── BinarySearchTree.java
+│   ├── BplusTree.java
+│   └── Node.java
+├── python
+│   ├── AVLtrees.py
+│   ├── binarytrees.py
+│   ├── btrees.py
+│   ├── graphs.py
+│   ├── queues.py
+│   └── stack.py
+└── README.md
 
 ## Contribution
 

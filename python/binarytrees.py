@@ -1,4 +1,4 @@
-from AVLtrees import AVL
+from python.AVLtrees import AVL
 
 class Node:
     def __init__(self, data, left=None, right=None):
