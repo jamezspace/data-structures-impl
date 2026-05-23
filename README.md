@@ -69,6 +69,7 @@ Each member contributes by implementing specific data structures or improving ex
 | **EMMANUEL AGBANUSI** | **243436** |
 | **ONISHOLA JOSHUA**   | **236758** |
 | **ONISHOLA CALEB**    | **236757** |
+| **ADEDEJI ADEDOLAPO** | **243426** |
 | **JAMES SAMUEL**      | **231433** |
 
 ## Notes
